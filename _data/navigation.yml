@@ -1,0 +1,10 @@
+- name: Home
+  link: ""
+- name: Sobre mí
+  link: "#about-section"
+- name: Proyectos
+  link: "#projects-section"
+- name: Resume
+  link: "#resume-section"
+- name: Contáctame
+  link: "#contact-section"

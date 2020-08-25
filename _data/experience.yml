@@ -1,0 +1,40 @@
+- role: Software Engineer
+  company: ARDUM Ingeniería SpA. <td>&#127464;&#127473;
+  description: Freelancer a cargo del desarrollo de soluciones tecnológicas. Aplicación web (www.ardum.cl), admin dashboard, diseño e implementación de base de datos. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud"><a class="tag-cloud-link">UX/UI</a><a class="tag-cloud-link">Node.js</a><a class="tag-cloud-link">Express</a><a class="tag-cloud-link">mySQL</a><a class="tag-cloud-link">cPanel</a><a class="tag-cloud-link">Bootstrap</a></div></div></div></div>
+  date: Agosto 2020
+  img: logoardum.png
+- role: IoT Academy
+  company: Vodafone &#127470;&#127481;
+  description: Concurso dirigido a estudiantes de master y de selección basada en rendimiento académico, CV y carta de motivación. Desarrollo de solución smart parking para la ciudad de Turín. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud"><a class="tag-cloud-link">5G</a><a class="tag-cloud-link">deep learning</a><a class="tag-cloud-link">sensores</a><a class="tag-cloud-link">CNN</a><a class="tag-cloud-link">modelo de negocio</a></div></div></div></div>
+  date: Febrero 2020 - Julio 2020
+  img: vodafonelogo.png
+- role: Ingeniero en Automatización de Procesos | Práctica
+  company: Mercado Libre <td>&#127464;&#127473;
+  description: Desarrollo de PubliBOT para la automatización de reportes y análisis de datos sobre ingresos. Más detalle <a href="/"> aquí </a>. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud"><a class="tag-cloud-link">RESTful API</a><a class="tag-cloud-link">Python</a><a class="tag-cloud-link">Google Analytics</a><a class="tag-cloud-link">Tableau</a><a class="tag-cloud-link">pandas</a></div></div></div></div>
+  img: melilogo.png
+  date: Junio 2019 - Septiembre 2019
+- role: Co-fundador & CFO
+  company: LookOut <td>&#127464;&#127473;
+  description: <a href="/lookout">SaaS</a> que ayuda a colegios, mediante machine learning, a detectar a tiempo las distintas situaciones que puedan estar afectando a los escolares durante su desarrollo. Start-up ganadora de ING2030 UC, Ideas X Santander y finalista de Brain Chile. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud"><a class="tag-cloud-link">salud mental</a><a class="tag-cloud-link">educación</a><a class="tag-cloud-link">innovación</a><a class="tag-cloud-link">inteligencia artificial</a></div></div></div></div>
+  date: Agosto 2017 - Agosto 2019
+  img: lookoutlogo.png
+- role: Seeds for the Future
+  company: Huawei Technologies <td>&#127464;&#127475;
+  description: Concurso a nivel nacional para alumnos de ingeniería. Diez (de 300 concursantes) seleccionados por rendimiento académico, CV, carta de motivación y entrevista con directores de Huawei. Más detalle <a href="/"> aquí </a>. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud"><a class="tag-cloud-link">5G</a><a class="tag-cloud-link">cloud computing</a><a class="tag-cloud-link">IoT</a><a class="tag-cloud-link">smart city</a></div></div></div></div>
+  date: Abril 2019 - Mayo 2019
+  img: huaweilogo.jpg
+- role: Fundador & CEO
+  company: V&V Store <td>&#127464;&#127473;
+  description: Tienda con operaciones en redes sociales y entregas a lo largo de Chile. Vestuario y zapatillas importadas desde China para la venta. V&V Store alcanzó 30.000 seguidores en Instagram con ticket promedio de 20.000 CLP.  </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud"><a class="tag-cloud-link">emprendimiento</a><a class="tag-cloud-link">finanzas</a><a class="tag-cloud-link">marketing</a><a class="tag-cloud-link">branding</a><a class="tag-cloud-link">ventas</a></div></div></div></div>
+  date: Enero 2016 - Enero 2018
+  img: vandvlogo.jpg
+- role: Investigador de Pregrado
+  company: Pontificia Universidad Católica de Chile <td>&#127464;&#127473;
+  description: Análisis de modelo de optimización para pronosticar operaciones bajo incertidumbre (supervisado por profesor Álvaro Lorca del Departamento de Ingeniería Eléctrica UC).  </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud"><a class="tag-cloud-link">python</a><a class="tag-cloud-link">gurobi</a><a class="tag-cloud-link">energía renovable</a><a class="tag-cloud-link">almacenamiento</a></div></div></div></div>
+  date: Marzo 2017 - Junio 2017
+  img: logouc.png
+- role: Asistente de Tesis
+  company: Pontificia Universidad Católica de Chile <td>&#127464;&#127473;
+  description: Desarrollo de modelo de regresión para tesis en ciencias políticas (supervisado por profesor Luis Hernandez del Departamento de Ingeniería Industrial y de Sistemas UC).  </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud"><a class="tag-cloud-link">análisis de datos</a><a class="tag-cloud-link">inmigración</a><a class="tag-cloud-link">estadística</a><a class="tag-cloud-link">R</a></div></div></div></div>
+  date: Marzo 2016 - Junio 2016
+  img: logouc.png

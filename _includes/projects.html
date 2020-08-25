@@ -1,0 +1,24 @@
+<section class="ftco-section ftco-project" id="projects-section">
+  <div class="container-fluid px-md-0">
+    <div class="row no-gutters justify-content-center pb-5">
+      <div class="col-md-12 heading-section text-center ftco-animate">
+        <h1 class="big big-2">Projects</h1>
+        <h2 class="mb-4">Cool Projects</h2>
+        <p>Estas páginas aún estan en construcción &#127959;</p>
+      </div>
+    </div>
+    <div class="row no-gutters">
+      {% for item in site.data.projects %}
+      <div class="col-md-4">
+        <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url({{item.img}});">
+          <div class="overlay"></div>
+          <div class="text text-center p-4">
+            <h3><a href="{{item.link}}">{{item.name}}</a></h3>
+            <span>{{item.company}}</span>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

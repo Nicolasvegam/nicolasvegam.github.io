@@ -1,0 +1,248 @@
+---
+title: LookOut
+image1: https://nicolasvegam.github.io/assets/images/equipo-1600x1200.jpg
+image2: https://nicolasvegam.github.io/assets/images/23783872-10214159786810407-1469724388198526658-o-1024x670.jpg
+image3: https://nicolasvegam.github.io/assets/images/0-1280x960.jpg
+prize1: inguc.png
+prize2: ideasx.png
+prize3: brainchile.png
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{{page.title}}</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <!-- End fonts -->
+    <!-- CSS -->
+    <link rel="stylesheet" href="assets/css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <link rel="stylesheet" href="assets/css/aos.css">
+    <link rel="stylesheet" href="assets/css/ionicons.min.css">
+    <link rel="stylesheet" href="assets/css/flaticon.css">
+    <link rel="stylesheet" href="assets/css/icomoon.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!-- End CSS -->
+  </head>
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+
+    {% include nav.html %}
+
+    {% include slider2.html background= "url(https://images.unsplash.com/photo-1510531704581-5b2870972060?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1504&q=80)"%}
+
+    <div class="sidebar-box ftco-animate fadeInUp ftco-animated">
+      <div class="row justify-content-center align-items-center">
+
+      <div class="col-lg-6 col-md-6 align-items-center">
+        <div class="tagcloud" style="text-align: -webkit-center;">
+          <a class="tag-cloud-link">keywords:  </a>
+          <a class="tag-cloud-link">inteligencia artificial</a>
+          <a class="tag-cloud-link">start-up</a>
+          <a class="tag-cloud-link">salud mental</a>
+          <a class="tag-cloud-link">cloud computing</a>
+          <a class="tag-cloud-link">educación</a>
+        </div>
+      </div>
+      </div>
+    </div>
+
+
+    <section class="ftco-section contact-section ftco-no-pb" id="features-section" style="padding-top:1em;">
+      <div class="container">
+        <div class="row justify-content-center mb-5 pb-3">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+            <h1 class="big big-2"></h1>
+            <h2 class="mb-4"></h2>
+            <p></p>
+          </div>
+        </div>
+
+        <div class="row d-flex contact-info mb-5">
+
+          <div class="col-md-4 col-lg-4 d-flex ftco-animate">
+            <div class="align-self-stretch box text-center p-4 shadow">
+              <div class="d-flex align-items-center justify-content-center">
+                <p style="font-size:50px">1. &#128248;</p>
+              </div>
+              <div>
+                <h3 class="mb-4">Recolección de imágenes</h3>
+                <p>Las imágenes son recolectadas mediante una cámara en la sala de clases, encriptadas y enviadas al servidor local.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-lg-4 d-flex ftco-animate">
+            <div class="align-self-stretch box text-center p-4 shadow">
+              <div class="d-flex align-items-center justify-content-center">
+                <p style="font-size:50px">2. &#129302;</p>
+              </div>
+              <div>
+                <h3 class="mb-4">Análisis de datos</h3>
+                <p>Análisis de imágenes, mediante reconocimiento facial y machine learning.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-lg-4 d-flex ftco-animate">
+            <div class="align-self-stretch box text-center p-4 shadow">
+              <div class="d-flex align-items-center justify-content-center">
+                <p style="font-size:50px">3. &#128202;</p>
+              </div>
+              <div>
+                <h3 class="mb-4">Visualización de information</h3>
+                <p>Entrega de información importante mediante una plataforma web interactiva.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="col-md-12" id="demo">
+
+    <video loop muted autoplay playsinline id="video" class="video-lookout"></video>
+    <div class="overlay w-100" style="height:98%;">
+      <div class="container h-100 center">
+        <div class="row justify-content-center h-25">
+          <div class="col-lg-12" style="padding-left:45px;text-align:center;align-self:center;">
+            <h1 class="mb-4" style="color: white;">How its works</h1>
+          </div>
+        </div>
+        <div class="row justify-content-center h-25">
+          <div class="col-lg-6" style="text-align: center;align-self:center;">
+            <button id="intra-b" type="button" onclick="showhide()" class="btn btn-outline-primary">Indicador intrapersonal</button>
+          </div>
+          <div class="col-lg-6" style="text-align: center;align-self:center">
+            <button id="inter-b" type="button" onclick="showhide2()" class="btn btn-outline-primary">Indicador interpersonal</button>
+          </div>
+        </div>
+        <div class="row justify-content-center h-50">
+          <div class="col-lg-6" style="text-align:center;">
+            <div id="intrapersonal"  class="top-buffer hidden">
+            <p style='color: white;'>Mediante reconocimiento facial, es posible detectar las emociones de cada persona. Se puede identificar la emoción en la parte superior del recuadro facial.</p>
+            </div>
+          </div>
+          <div class="col-lg-6" style="text-align: center;">
+            <div id="interpersonal"  class="top-buffer hidden">
+            <p style='color: white;'>El sistema puede medir cuando una persona está interactuando o está sola. El color rojo significa soledad, por el contario, el azul indica interacción con otra persona.</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    </div>
+
+    <section class="ftco-section contact-section ftco-no-pb" id="ben-section" style="padding-top:1em;">
+      <div class="container">
+        <div class="row justify-content-center mb-5 pb-3">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+            <h1 class="big big-2"></h1>
+            <h2 class="mb-4">Beneficios</h2>
+            <p></p>
+          </div>
+        </div>
+
+        <div class="row d-flex contact-info mb-5">
+
+          <div class="col-md-4 col-lg-4 d-flex ftco-animate">
+            <div class="align-self-stretch box text-center p-4 shadow">
+              <div class="d-flex align-items-center justify-content-center">
+                <p style="font-size:50px">&#9201;</p>
+              </div>
+              <div>
+                <h3 class="mb-4">Información precisa</h3>
+                <p>Se muestra la información necesaria de cada alumno, con foco sólo en los casos críticos dentro del aula.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-lg-4 d-flex ftco-animate">
+            <div class="align-self-stretch box text-center p-4 shadow">
+              <div class="d-flex align-items-center justify-content-center">
+                <p style="font-size:50px">&#128204;</p>
+              </div>
+              <div>
+                <h3 class="mb-4">Información precisa</h3>
+                <p>Abre la posibilidad para integrar datos escolares relevantes como antecedentes académico, familiares o psicológicos.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 col-lg-4 d-flex ftco-animate">
+            <div class="align-self-stretch box text-center p-4 shadow">
+              <div class="d-flex align-items-center justify-content-center">
+                <p style="font-size:50px">&#128193;</p>
+              </div>
+              <div>
+                <h3 class="mb-4">Integración de datos</h3>
+                <p>Entrega de información importante mediante una plataforma web interactiva.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="ftco-section ftco-partner">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm ftco-animate fadeInUp ftco-animated">
+            <a href="#" class="partner"><img src="assets/images/{{page.prize1}}" class="img-fluid" ></a>
+          </div>
+          <div class="col-sm ftco-animate fadeInUp ftco-animated">
+            <a href="#" class="partner"><img src="assets/images/{{page.prize2}}" class="img-fluid" ></a>
+          </div>
+          <div class="col-sm ftco-animate fadeInUp ftco-animated">
+            <a href="#" class="partner"><img src="assets/images/{{page.prize3}}" class="img-fluid" ></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="ftco-section ftco-project" id="picture-section" style="padding-top:0px;padding-bottom:0px;">
+      <div class="container-fluid px-md-0">
+        <div class="row no-gutters">
+          <div class="col-md-4">
+            <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url({{page.image1}});">
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url({{page.image2}});">
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url({{page.image3}});">
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+    {% include footer.html %}
+
+
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="assets/js/popper.min.js"></script>
+  <script src="assets/js/bootstrap.min.js"></script>
+  <script src="assets/js/jquery.easing.1.3.js"></script>
+  <script src="assets/js/jquery.waypoints.min.js"></script>
+  <script src="assets/js/jquery.stellar.min.js"></script>
+  <script src="assets/js/owl.carousel.min.js"></script>
+  <script src="assets/js/jquery.magnific-popup.min.js"></script>
+  <script src="assets/js/aos.js"></script>
+  <script src="assets/js/jquery.animateNumber.min.js"></script>
+  <script src="assets/js/scrollax.min.js"></script>
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/ytvideo.js"></script>
+  <script src="assets/js/buttonclicks.js"></script>
+
+  </body>
+</html>

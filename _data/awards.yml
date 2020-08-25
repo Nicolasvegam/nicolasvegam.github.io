@@ -1,0 +1,30 @@
+- title: Vodafone IoT Academy
+  entity: Politecnico di Torino
+  description: "Programa de training donde fueron selecionados 30 alumnos de magister (de un total de 150). Los selecionados son entranados en soluciones IoT: smart city, transport, health and industrial automation."
+  date: 2020
+  img: logopolito.jpg
+- title: Programa de Doble Grado
+  entity: Politecnico di Torino
+  description: Estudiante selecionado por rendimiento académico, CV y carta motivational. Acuerdo entre PUC y Politecnico di Torino para programas de máster.
+  date:  2019
+  img: logopolito.jpg
+- title: Seeds for the Future
+  entity: Huawei Technologies
+  description: Programa de inmersión en China. Los selecionados inician periodo en la Universidad de Lenguage y Cultura de Beijing. Desde allí son trasladados a los headquarters de Huawei en Shenzhen, donde reciben entrenamiento de los mejores profesionales en la industria.
+  date:  2019
+  img: huaweilogo.jpg
+- title: Leading the  Way
+  entity: English UC & Friends UC
+  description: El programa Leading the Way ofrece entrenamiento intensivo de la lengua inglesa e inmersión cultural para estudiantes UC que han tenido excelentes resultados académicos y profesionales. El programa se ofrece en cooperación con la Universidad de Drexel en Filadelfia.
+  date:  2019
+  img: logouc.png
+- title: Start-up finalista
+  entity: ING2030, Escuela de Ingeniería UC
+  description: Curso Investigación, Innovación y Emprendimiento. LookOut ganó entre un total de 64 proyectos tecnológicos ($5M CLP).
+  date:  2017
+  img: logouc.png
+- title: Premio Padre Hurtado
+  entity: Pontificia Universidad Católica de Chile
+  description: Premio de beca completa (6 años) para estudiantes que presentan excelente rendimiento académico en enseñanza media (ranking 1 de 75) y sobresaliente resultado en la PSU (top 0.1% del promedio nacional).
+  date:  2015
+  img: logouc.png

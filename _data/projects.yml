@@ -1,0 +1,24 @@
+- name: Seeds for the Future
+  link: /
+  company: Huawei Technologies
+  img: https://images.unsplash.com/photo-1547981609-4b6bfe67ca0b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+- name: Automatización de Reportes
+  link: /
+  company: Mercado Libre
+  img: https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+- name: IA en Educación
+  link: /lookout
+  company: LookOut
+  img: https://nicolasvegam.github.io/assets/images/dsc05377-2000x1500.jpeg
+- name: Fashion Startup
+  link: /
+  company: V&V Store
+  img: https://images.unsplash.com/photo-1460353581641-37baddab0fa2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80
+- name: Inmersión Cultural y Liderazgo
+  link: /
+  company: Drexel University
+  img: https://images.unsplash.com/photo-1534102015696-3b5a58673b59?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80
+- name: Smart City en Turín
+  link: /
+  company: Vodafone IoT Academy
+  img: https://images.unsplash.com/photo-1546938482-2ad7abfb620c?ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80

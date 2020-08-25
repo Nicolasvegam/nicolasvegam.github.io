@@ -1,0 +1,56 @@
+<footer class="ftco-footer ftco-section" style="padding-top: 1em; padding-bottom: 0em;"">
+  <div class="container">
+    <div class="row mb-5">
+      <div class="col-md">
+        <div class="ftco-footer-widget mb-4 ml-md-4">
+          <h2 class="ftco-heading-2"></h2>
+          <ul class="list-unstyled">
+            {% for item in site.data.navigation %}
+              <li><a href= {% if page.url == "/" %} "{{item.link}}" {% else %} "../{{item.link}}" {% endif %}><span class="icon-long-arrow-right mr-2"></span>{{item.name}}</a></li>
+
+              {% if item.name == "Proyectos" %}
+              </ul>
+            </div>
+          </div>
+          <div class="col-md">
+            <div class="ftco-footer-widget mb-4 ml-md-4">
+              <h2 class="ftco-heading-2"></h2>
+              <ul class="list-unstyled">
+              {% endif %}
+          {% endfor %}
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-md">
+        <div class="ftco-footer-widget mb-4">
+          <h2 class="ftco-heading-2"></h2>
+          <div class="block-23 mb-3">
+            <ul>
+              <li><span class="icon icon-map-marker"></span><span class="text">Entre Santiago y Torino</span></li>
+              <li><span class="icon icon-phone"></span><span class="text">+(39) 366 264 9400</span></li>
+              <li><span class="icon icon-envelope"></span><span class="text">ndvega@uc.cl</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-md" style="text-align-last:center;">
+        <div class="ftco-footer-widget mb-4">
+          <h2 class="ftco-heading-2"></h2>
+          <p><a class="navbar-brand" href=""><img class="logo" src="assets/images/logo.svg" alt="alternative"></a></p>
+          <p><ul class="ftco-footer-social list-unstyled float-md-right float-lft mt-5">
+            <li class="ftco-animate"><a href="https://github.com/nicolasvegam"><span class="icon-github"></span></a></li>
+            <li class="ftco-animate"><a href="https://www.linkedin.com/in/nicolasvegam"><span class="icon-linkedin"></span></a></li>
+          </ul>
+          <p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <p>© Nicolás Vega 2020 - All Rights Reserved
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
