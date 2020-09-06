@@ -1,3 +1,7 @@
+/*Slider */
+
+
+
 /*Custom CSS */
 
 video {
@@ -3905,7 +3909,6 @@ input[type="button"].btn-block {
   border-bottom: 1px solid rgba(0, 0, 0, 0.125); }
   .card-header:first-child {
     border-radius: calc(0.25rem - 1px) calc(0.25rem - 1px) 0 0; }
-  .card-header + .list-group .list-group-item:first-child {
     border-top: 0; }
 
 .card-footer {
@@ -5171,6 +5174,7 @@ a.close.disabled {
 .carousel {
   position: relative; }
 
+
 .carousel.pointer-event {
   -ms-touch-action: pan-y;
   touch-action: pan-y; }
@@ -5179,10 +5183,10 @@ a.close.disabled {
   position: relative;
   width: 100%;
   overflow: hidden; }
-  .carousel-inner::after {
-    display: block;
-    clear: both;
-    content: ""; }
+
+.carousel-inner::after {
+  clear: both;
+  content: ""; }
 
 .carousel-item {
   position: relative;
