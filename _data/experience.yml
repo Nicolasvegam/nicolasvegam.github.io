@@ -1,17 +1,37 @@
+- role: Product Engineer
+  company: Xepelin <td>&#127464;&#127473;&#x1F1F2;&#x1F1FD;
+  description: Creating cool stuff to automate boring stuff. Built +30 products for clients. Led, coded and coached from scratch B2B Payment products in Chile & Mexico (from 0 to +5MM USD). </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">product</a><a class="tag-cloud-link">fintech</a><a class="tag-cloud-link">payments</a><a class="tag-cloud-link">automation</a><a class="tag-cloud-link">ninja dev</a></div></div></div></div>
+  date: December 2020 - Today
+  img: xepelin.png
+- role: Researcher
+  company: Millennium Institute Foundational Research on Data <td>&#127464;&#127473;
+  description: Doing crazy things with big public datasets. Working on a paper with PhD. Naim Bro. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">Statistics</a><a class="tag-cloud-link">Machine Learning</a><a class="tag-cloud-link">Public Service</a><a class="tag-cloud-link">Nepotism</a><a class="tag-cloud-link">Big Data</a></div></div></div></div>
+  date: September 2020 - Today
+  img: institutomilenio.jpeg
+- role: Software Engineer
+  company: AstraZeneca <td>&#127464;&#127473;
+  description: Freelancer. I built LinkedIn scrapers to gather data and create a Natural Language Processing model. Created web app to manage and control worker's skills. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">Machine Learning</a><a class="tag-cloud-link">Python</a><a class="tag-cloud-link">Django</a><a class="tag-cloud-link">Selenium</a><a class="tag-cloud-link">Data Visualisation</a></div></div></div></div>
+  date: September 2020 - January 2021
+  img: astrazeneca.jpeg
 - role: Software Engineer
   company: ARDUM Ingeniería SpA. <td>&#127464;&#127473;
   description: Freelancer. I built its web app (www.ardum.cl), admin dashboard along with the implementation of internal databases. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">UX/UI</a><a class="tag-cloud-link">Node.js</a><a class="tag-cloud-link">Express</a><a class="tag-cloud-link">mySQL</a><a class="tag-cloud-link">cPanel</a><a class="tag-cloud-link">HTML</a></div></div></div></div>
   date: August 2020
   img: logoardum.png
 - role: Project Engineer
-  company: Vodafone Italy &#127470;&#127481;
+  company: Vodafone Italia &#127470;&#127481;
   description: Delivered a smart parking solution using IoT devices and 5G in Torino, Italy. Worked with an international team from 6 different engineering disciplines. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">5G</a><a class="tag-cloud-link">deep learning</a><a class="tag-cloud-link">sensors</a><a class="tag-cloud-link">CNN</a><a class="tag-cloud-link">Business Model</a></div></div></div></div>
   date: February 2020 - July 2020
-  img: vodafonelogo.png
-- role: Product Ads Intern
+  img: vodafoneit.jpeg
+- role: Software Engineer
+  company: CECOMP Italia &#127470;&#127481;
+  description: Built an information system to manage workers' skills and assess job performance. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">Python</a><a class="tag-cloud-link">Flask</a><a class="tag-cloud-link">HTML</a><a class="tag-cloud-link">CSS</a><a class="tag-cloud-link">SQLAlchemy</a></div></div></div></div>
+  date: September 2020 - January 2020
+  img: cecomp.jpeg
+- role: Ads Intern
   company: Mercado Libre <td>&#127464;&#127473;
   description: Led and built <a href="/meli"> PubliBOT </a> , a tool to automate reports in the Advertising Business Unit (incresed speed x8). Made BI solutions to control and monitoring the renevue of ads products.  </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">RESTful API</a><a class="tag-cloud-link">Python</a><a class="tag-cloud-link">Google Analytics</a><a class="tag-cloud-link">Tableau</a><a class="tag-cloud-link">pandas</a></div></div></div></div>
-  img: melilogo.png
+  img: meli.jpeg
   date: June 2019 - September 2019
 - role: Co-Founder
   company: LookOut <td>&#127464;&#127473;
@@ -22,10 +42,10 @@
   company: Huawei Technologies <td>&#127464;&#127475;
   description: Trained by Huawei at its headquarters in Shenzhen, China. Selected from a pool of +300 applicants. Met wonderful people. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">5G</a><a class="tag-cloud-link">cloud computing</a><a class="tag-cloud-link">IoT</a><a class="tag-cloud-link">smart city</a></div></div></div></div>
   date: April 2019 - May 2019
-  img: huaweilogo.jpg
+  img: huawei.jpeg
 - role: Co-Founder & CEO
   company: V&V Store <td>&#127464;&#127473;
-  description: First startup at 18 years old. Sold goods (from Chinese suppliers), built an online store and a fashion blog. Urban fashion expert on those days (+30k followers, +1k customers, ~70 ROI). </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">startup</a><a class="tag-cloud-link">finances</a><a class="tag-cloud-link">marketing</a><a class="tag-cloud-link">branding</a><a class="tag-cloud-link">sales</a></div></div></div></div>
+  description: First startup at 18 years old. Sold goods (from Chinese suppliers), built an online store and a fashion blog. Urban fashion expert on those days (+30k followers, +1k customers, ~70 ROI). </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">startup</a><a class="tag-cloud-link">finance</a><a class="tag-cloud-link">marketing</a><a class="tag-cloud-link">branding</a><a class="tag-cloud-link">sales</a></div></div></div></div>
   date: January 2016 - January 2018
   img: vandvlogo.jpg
 - role: Research Assistant
