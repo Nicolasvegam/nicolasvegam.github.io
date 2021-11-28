@@ -1,25 +1,25 @@
 - role: Data Science and Visulization for Business
   company: IE Business School <td>&#128187;
-  description: Curso online certificado por IE
+  description: Certified course by IE
   date: 2020
   img: ielogo.png
 - role: Data Science, Machine Learning and AI for Business
   company: IE Business School <td>&#128187;
-  description: Curso online certificado por IE
+  description: Certified course by IE
   date: 2020
   img: ielogo.png
 - role: A2 Italian Language
   company: Istituto Italiano di Cultura <td>&#127464;&#127473;
-  description: Certificado de lengua oficial de italiano.
+  description: Official certification of italian language.
   date: 2019
   img: iiclogo.png
 - role: Chinese Language & Culture
   company: 北京语言大学 <td>&#127464;&#127475;
-  description: Primera etapa de Seeds For the Future. Estudio de lengua y cultura china en Beijing.
+  description: Non-official certification. Study of chinese culture and language in Beijing.
   date: 2019
   img: blculogo.png
 - role: Cultural Immersion & Leadership
   company: ELC, Drexel University <td>&#127482;&#127474;
-  description: Estudio de lengua, cultura y liderazgo con foco en el contexto norteamericano.
+  description: Non-official certification. Study of American culture and language in Philadelphia.
   date: 2019
   img: drexellogo.png

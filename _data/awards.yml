@@ -1,30 +1,30 @@
-- title: Vodafone IoT Academy
-  entity: Politecnico di Torino
-  description: "Programa de training donde fueron selecionados 30 alumnos de magister (de un total de 150). Los selecionados son entranados en soluciones IoT: smart city, transport, health and industrial automation."
+- title: Vodafone Academy
+  entity: Vodafone Italia
+  description: Selected from a pool of +150 master students. Delivery of smart city solution for the city of Torino using IoT and 5G.
   date: 2020
   img: logopolito.jpg
-- title: Programa de Doble Grado
+- title: Double Degree Program
   entity: Politecnico di Torino
-  description: Estudiante selecionado por rendimiento académico, CV y carta motivational. Acuerdo entre PUC y Politecnico di Torino para programas de máster.
+  description: Selected from a pool of +50 UC engineering students. Agreement between PUC and Politecnico di Torino.
   date:  2019
   img: logopolito.jpg
 - title: Seeds for the Future
   entity: Huawei Technologies
-  description: Programa de inmersión en China. Los selecionados inician periodo en la Universidad de Lenguage y Cultura de Beijing. Desde allí son trasladados a los headquarters de Huawei en Shenzhen, donde reciben entrenamiento de los mejores profesionales en la industria.
+  description: Selected from a pool of +300 students from the top 3 schools of engineering in Chile. Training made by Huawei in its headquarters located in Shenzhen, China.
   date:  2019
   img: huaweilogo.jpg
 - title: Leading the  Way
   entity: English UC & Friends UC
-  description: El programa Leading the Way ofrece entrenamiento intensivo de la lengua inglesa e inmersión cultural para estudiantes UC que han tenido excelentes resultados académicos y profesionales. El programa se ofrece en cooperación con la Universidad de Drexel en Filadelfia.
+  description: Selected from a pool of +200 UC students. Intensive English training in Drexel University, Philadelphia. Cultural inmersion for students with excellent academic and professional record.
   date:  2019
   img: logouc.png
-- title: Start-up finalista
-  entity: ING2030, Escuela de Ingeniería UC
-  description: Curso Investigación, Innovación y Emprendimiento. LookOut ganó entre un total de 64 proyectos tecnológicos ($5M CLP).
+- title: Finalist Start-Up
+  entity: ING2030, UC, School of Engineering
+  description: Research, Innovation and Entrepreneurship contest. LookOut was selected from a total of 64 tech projects ($5MM CLP).
   date:  2017
   img: logouc.png
-- title: Premio Padre Hurtado
+- title: Padre Hurtado Award
   entity: Pontificia Universidad Católica de Chile
-  description: Premio de beca completa (6 años) para estudiantes que presentan excelente rendimiento académico en enseñanza media (ranking 1 de 75) y sobresaliente resultado en la PSU (top 0.1% del promedio nacional).
+  description: Full scholarship (6 years) for students with excellent academic record in high school (1 of 75) and outstading score in the PSU, equivalent to SAT (top 0.1% in Chile).
   date:  2015
   img: logouc.png

@@ -1,40 +1,40 @@
 - role: Software Engineer
   company: ARDUM Ingeniería SpA. <td>&#127464;&#127473;
-  description: Freelancer a cargo del desarrollo de soluciones tecnológicas. Aplicación web (www.ardum.cl), admin dashboard, diseño e implementación de base de datos. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">UX/UI</a><a class="tag-cloud-link">Node.js</a><a class="tag-cloud-link">Express</a><a class="tag-cloud-link">mySQL</a><a class="tag-cloud-link">cPanel</a><a class="tag-cloud-link">Bootstrap</a></div></div></div></div>
-  date: Agosto 2020
+  description: Freelancer. I built its web app (www.ardum.cl), admin dashboard along with the implementation of internal databases. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">UX/UI</a><a class="tag-cloud-link">Node.js</a><a class="tag-cloud-link">Express</a><a class="tag-cloud-link">mySQL</a><a class="tag-cloud-link">cPanel</a><a class="tag-cloud-link">HTML</a></div></div></div></div>
+  date: August 2020
   img: logoardum.png
-- role: IoT Academy
-  company: Vodafone &#127470;&#127481;
-  description: Concurso dirigido a estudiantes de master y de selección basada en rendimiento académico, CV y carta de motivación. Desarrollo de solución smart parking para la ciudad de Turín. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">5G</a><a class="tag-cloud-link">deep learning</a><a class="tag-cloud-link">sensores</a><a class="tag-cloud-link">CNN</a><a class="tag-cloud-link">modelo de negocio</a></div></div></div></div>
-  date: Febrero 2020 - Julio 2020
+- role: Project Engineer
+  company: Vodafone Italy &#127470;&#127481;
+  description: Delivered a smart parking solution using IoT devices and 5G in Torino, Italy. Worked with an international team from 6 different engineering disciplines. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">5G</a><a class="tag-cloud-link">deep learning</a><a class="tag-cloud-link">sensors</a><a class="tag-cloud-link">CNN</a><a class="tag-cloud-link">Business Model</a></div></div></div></div>
+  date: February 2020 - July 2020
   img: vodafonelogo.png
-- role: Ingeniero en Automatización de Procesos | Práctica
+- role: Product Ads Intern
   company: Mercado Libre <td>&#127464;&#127473;
-  description: Desarrollador líder de PubliBOT para la automatización de reportes (incremento de velocidad x8) y análisis de datos sobre ingresos. Más detalle <a href="/meli"> aquí </a>. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">RESTful API</a><a class="tag-cloud-link">Python</a><a class="tag-cloud-link">Google Analytics</a><a class="tag-cloud-link">Tableau</a><a class="tag-cloud-link">pandas</a></div></div></div></div>
+  description: Led and built <a href="/meli"> PubliBOT </a> , a tool to automate reports in the Advertising Business Unit (incresed speed x8). Made BI solutions to control and monitoring the renevue of ads products.  </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">RESTful API</a><a class="tag-cloud-link">Python</a><a class="tag-cloud-link">Google Analytics</a><a class="tag-cloud-link">Tableau</a><a class="tag-cloud-link">pandas</a></div></div></div></div>
   img: melilogo.png
-  date: Junio 2019 - Septiembre 2019
-- role: Co-fundador & CFO
+  date: June 2019 - September 2019
+- role: Co-Founder
   company: LookOut <td>&#127464;&#127473;
-  description: <a href="/lookout">SaaS</a> que ayuda a colegios, mediante machine learning, a detectar a tiempo las distintas situaciones que puedan estar afectando a los escolares durante su desarrollo. Start-up ganadora de ING2030 UC, Ideas X Santander y finalista de Brain Chile. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">salud mental</a><a class="tag-cloud-link">educación</a><a class="tag-cloud-link">innovación</a><a class="tag-cloud-link">inteligencia artificial</a></div></div></div></div>
-  date: Agosto 2017 - Agosto 2019
+  description: Second startup. <a href="/lookout">SaaS</a> that used machine learning to help teachers detect in time students with socioemotional problems (+18k usd raised). Worked with brilliant people. <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">mental health</a><a class="tag-cloud-link">education</a><a class="tag-cloud-link">innovation</a><a class="tag-cloud-link">machine learning</a></div></div></div></div>
+  date: August 2017 - August 2019
   img: lookoutlogo.png
-- role: Seeds for the Future
+- role: Internacional Visitor
   company: Huawei Technologies <td>&#127464;&#127475;
-  description: Concurso a nivel nacional para alumnos de ingeniería. Diez (de 300 concursantes) seleccionados por rendimiento académico, CV, carta de motivación y entrevista con directores de Huawei. Más detalle <a href="/"> aquí </a>. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">5G</a><a class="tag-cloud-link">cloud computing</a><a class="tag-cloud-link">IoT</a><a class="tag-cloud-link">smart city</a></div></div></div></div>
-  date: Abril 2019 - Mayo 2019
+  description: Trained by Huawei at its headquarters in Shenzhen, China. Selected from a pool of +300 applicants. Met wonderful people. </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">5G</a><a class="tag-cloud-link">cloud computing</a><a class="tag-cloud-link">IoT</a><a class="tag-cloud-link">smart city</a></div></div></div></div>
+  date: April 2019 - May 2019
   img: huaweilogo.jpg
-- role: Fundador & CEO
+- role: Co-Founder & CEO
   company: V&V Store <td>&#127464;&#127473;
-  description: Tienda con operaciones en redes sociales y entregas a lo largo de Chile. Vestuario y zapatillas importadas desde China para la venta. V&V Store alcanzó 30.000 seguidores en Instagram con ticket promedio de 20.000 CLP.  </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">emprendimiento</a><a class="tag-cloud-link">finanzas</a><a class="tag-cloud-link">marketing</a><a class="tag-cloud-link">branding</a><a class="tag-cloud-link">ventas</a></div></div></div></div>
-  date: Enero 2016 - Enero 2018
+  description: First startup at 18 years old. Sold goods (from Chinese suppliers), built an online store and a fashion blog. Urban fashion expert on those days (+30k followers, +1k customers, ~70 ROI). </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">startup</a><a class="tag-cloud-link">finances</a><a class="tag-cloud-link">marketing</a><a class="tag-cloud-link">branding</a><a class="tag-cloud-link">ventas</a></div></div></div></div>
+  date: January 2016 - January 2018
   img: vandvlogo.jpg
-- role: Investigador de Pregrado
+- role: Research Assistant
   company: Pontificia Universidad Católica de Chile <td>&#127464;&#127473;
-  description: Análisis de modelo de optimización para pronosticar operaciones bajo incertidumbre (supervisado por profesor Álvaro Lorca del Departamento de Ingeniería Eléctrica UC).  </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">python</a><a class="tag-cloud-link">gurobi</a><a class="tag-cloud-link">energía renovable</a><a class="tag-cloud-link">almacenamiento</a></div></div></div></div>
-  date: Marzo 2017 - Junio 2017
+  description: Developed forecast of energy operations and storage under uncertainty in Atacama Desert. (supervised by professor Álvaro Lorca).  </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">python</a><a class="tag-cloud-link">gurobi</a><a class="tag-cloud-link">energy</a><a class="tag-cloud-link">operations research</a></div></div></div></div>
+  date: March 2017 - June 2017
   img: logouc.png
-- role: Asistente de Tesis
+- role: Research Assistant
   company: Pontificia Universidad Católica de Chile <td>&#127464;&#127473;
-  description: Desarrollo de modelo de regresión para tesis en ciencias políticas (supervisado por profesor Luis Hernandez del Departamento de Ingeniería Industrial y de Sistemas UC).  </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">análisis de datos</a><a class="tag-cloud-link">inmigración</a><a class="tag-cloud-link">estadística</a><a class="tag-cloud-link">R</a></div></div></div></div>
-  date: Marzo 2016 - Junio 2016
+  description: Developed linear regression that described inmigration in Santiago (supervised by professor Luis Hernandez).  </p> <div class="sidebar-box ftco-animate fadeInUp ftco-animated" style="padding:0px;margin-bottom:0px;text-align-last:center;"><div class="row justify-content-center align-items-center"><div class="col-lg-12 col-md-12 align-items-center"><div class="tagcloud" style="text-align:center;"><a class="tag-cloud-link">data analysis</a><a class="tag-cloud-link">inmigration</a><a class="tag-cloud-link">statistics</a><a class="tag-cloud-link">R</a></div></div></div></div>
+  date: March 2016 - June 2016
   img: logouc.png

@@ -1,20 +1,20 @@
-<section class="ftco-section ftco-no-pb goto-here" id="resume-section">
+<section class="ftco-section ftco-no-pb goto-here" id="resume-section" style="margin-bottom:5em;">
   <div class="container">
     <div class="row">
       <div class="col-md-3">
         <nav id="navi">
           <ul>
-            <li><a href="#edu">Educación</a></li>
-            <li><a href="#exp">Experiencia</a></li>
-            <li><a href="#ach">Logros</a></li>
-            <li><a href="#others">Skills & Otros</a></li>
+            <li><a href="#edu">Education</a></li>
+            <li><a href="#exp">Experience</a></li>
+            <li><a href="#ach">Achievements</a></li>
+            <!-- <li><a href="#others">Skills & Others</a></li> -->
 
           </ul>
         </nav>
       </div>
       <div class="col-md-9">
         <div id="edu" class= "page one">
-          <h2 class="heading">Educación</h2>
+          <h2 class="heading">Education</h2>
           {% for item in site.data.education %}
           <div class="resume-wrap d-flex ftco-animate">
             <div class="icon d-flex align-items-center justify-content-center">
@@ -31,7 +31,7 @@
         </div>
 
         <div id="exp" class= "page two">
-          <h2 class="heading">Experiencia</h2>
+          <h2 class="heading">Experience</h2>
           {% for item in site.data.experience %}
           <div class="resume-wrap d-flex ftco-animate">
             <div class="icon d-flex align-items-center justify-content-center">
@@ -48,7 +48,7 @@
         </div>
 
         <div id="ach" class= "page four">
-          <h2 class="heading">Logros</h2>
+          <h2 class="heading">Achievements</h2>
           {% for item in site.data.awards %}
           <div class="resume-wrap d-flex ftco-animate">
             <div class="icon d-flex align-items-center justify-content-center">
@@ -64,9 +64,9 @@
           {% endfor %}
         </div>
 
+        <!--
         <div id="others" class= "page three">
-          <h2 class="heading">Skills & Otros</h2>
-            <p> Podría poner una lista de skills como normalmente se hace, pero eso es muy subjetivo. Es mejor mostrar que has hecho en los <a href="#projects-section"> proyectos</a> que te propones.</p>
+          <h2 class="heading">Skills & Others</h2>
             {% for item in site.data.others %}
             <div class="resume-wrap d-flex ftco-animate">
               <div class="icon d-flex align-items-center justify-content-center">
@@ -81,7 +81,7 @@
             </div>
             {% endfor %}
         </div>
-
+        -->
       </div>
     </div>
   </div>
