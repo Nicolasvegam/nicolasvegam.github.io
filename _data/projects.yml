@@ -22,3 +22,15 @@
   link: /
   company: Vodafone IoT Academy
   img: https://images.unsplash.com/photo-1546938482-2ad7abfb620c?ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80
+- name: Government Website EOD
+  link: https://vocal-kitten-6577bd.netlify.app/
+  company: IGG Consultores
+  img: https://images.unsplash.com/photo-1490782300182-697b80ad4293?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1827&q=80
+- name: Ardum Website, Webapp & Databases
+  link: https://www.ardum.cl/
+  company: Ardum Ingeniería
+  img: https://images.unsplash.com/photo-1505833464198-4993b36cdfab?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80
+  - name: A lot stuff as CTO
+  link: https://gohubit.com
+  company: Hubit
+  img: https://images.unsplash.com/photo-1526626607369-f89fe1ed77a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80
